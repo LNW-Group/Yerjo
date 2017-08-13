@@ -1,0 +1,498 @@
+main{
+	width: 100%;
+	height: 654px;
+	border-top: 1px solid #E9E9E9;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	
+}
+main .head{
+	width: 1200px;
+	height: 654px;
+	margin: auto;
+
+}
+main .head p{
+	font-size: 18px;
+	line-height: 76px;
+	color:#a79d9d;
+}
+main .head p span{
+	color: #060000;
+}
+main .head .box{
+	width: 424px;
+	height: 578px;
+	float: left;
+}
+main .head .box a ul{
+	width: 424px;
+	height: 122px;
+	margin-top:28px ;
+}
+main .head .box a ul li{
+	float: left;
+	margin-left: 14px;
+}
+main .head .box a ul li img{
+	border: 1px solid #cac0c0;
+	box-sizing: border-box;
+	width: 122px;
+	height: 122px;
+	transition: .1s;
+}
+main .head .box a ul li:hover img{
+	border: 2px solid #F6183D;
+}
+main .head .box1{
+	width: 422px;
+	height: 578px;
+	float: left;
+	padding-left: 50px;
+	box-sizing: border-box;
+	
+}
+main .head .box1 h1{
+	font-size:24px ;
+	color: #060000;
+	font-weight: 500;
+	line-height: 40px;
+	margin-top: -6px;
+}
+main .head .box1 h6{
+	font-size:16px ;
+	color: #a79d9d;
+	font-weight: 200;
+}
+main .head .box1 .money{
+	font-size:24px ;
+	color: #f7193e;
+	margin-top: 10px;
+}
+main .head .box1 .miaoshu{
+	font-size:18px ;
+	width: 296px;
+	color: #565555;
+	margin-bottom: 40px;
+}
+main .head .box1 .kuang{
+	width: 202px;
+	height: 28px;
+	border: 1px solid #dedcdc;
+	margin-top:20px;
+	padding: 0px 34px;
+	line-height: 24px;
+	box-sizing: border-box;
+}
+main .head .box1 .kuang span{
+	font-size: 14px;
+	color: #868181;
+	margin-right: 50px;
+}
+main .head .box1 .kuang:hover .iconfont{
+	color: #F7193E;
+}
+main .head .box1 .serve{
+	line-height: 30px;
+	color: #565555;
+}
+main .head .box1 .fu{
+	margin-top:54px ;
+}
+main .head .box1 .pei{
+	padding-left:80px;
+	box-sizing: border-box;
+}
+main .head .box1 .serve span{
+	color: #565555;
+}
+main .head .box2{
+	width: 354px;
+	height: 578px;
+	float: left;
+	padding: 0 44px;
+	box-sizing: border-box;
+	border: 1px solid #c7c0c0;
+}
+main .head .box2 h1{
+	font-size: 48px;
+	color: #F7193E;
+	font-weight: 500;
+	line-height: 70px;
+}
+main .head .box2 .xian{
+	width: 266px;
+	height: 1px;
+	background: #DEDCDC;
+	margin-top: 6px;
+}
+main .head .box2 .boder .figure{
+	float: left;
+	width: 132px;
+	height: 24px;
+	border: 1px solid #CCCCCC;
+	box-sizing: border-box;
+	margin-right: 18px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 20px;
+}
+main .head .box2 .xuan{
+	line-height: 40px;
+	color: #000;
+	margin-top: 24px;
+}
+main .head .box2 .xuan1{
+	margin-top: 48px;
+}
+main .head .box2 .boder .condition{
+	float: left;
+	width: 24px;
+	height: 24px;
+	border: 1px solid #CCCCCC;
+	box-sizing: border-box;
+	margin-right: 10px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 20px;
+}
+main .head .box2 .boder .figure1{
+	margin-right: 0px;
+	border-right: 0px;
+}
+
+main .head .box2 .boder .jian{
+	color: #A79D9D;
+}
+main .head .box2 .boder .hinde{
+	display: none;
+	margin-left: -1px;
+	} 
+main .head .box2 .boder .hinde .figure2{
+	border-top: 0px;
+}
+main .head .box2 .boder .figure:hover .hinde{
+	display: block;
+}
+main .head .box2 .boder2{
+	height: 48px;
+}
+main .head .box2 .boder2 a img{
+	border: 1px solid #CCCCCC;
+	box-sizing: border-box;
+	margin-right: 4px;
+}
+main .head .box2 .boder2 a img:hover{
+	border: 1px solid #F7193E;
+}
+main .head .box2 .shop{
+	width: 212px;
+	height: 46px;
+	background:#f97f55 ;
+	margin-top: 58px;
+	text-align: center;
+	line-height: 46px;
+	font-size: 20px;
+}
+main .head .box2 .shop a{
+	color: #fff;
+}
+main .head .box2 .shop1 a{
+	margin-left: 24px;
+}
+main .head .box2 .shop1{
+	background:#f7193e ;
+	margin-top: 20px;
+	position: relative;
+}
+main .head .box2 .shop1 .iconfont{
+	color: #fff;
+	font-size: 28px;
+	position: absolute;
+	bottom: 0px;
+	left: 34px;
+}
+main .head .box2 .shop:hover{
+	background:#f85a23;
+}
+main .head .box2 .shop1:hover{
+	background:#d10728;
+}		.conten{
+	width: 100%;
+	height: 100%;
+	margin-top: 64px;
+}
+.conten .content{
+	width: 1200px;
+	height: 100%;
+	margin: auto;
+}
+.conten .content .hot{
+	width: 358px;
+	height: 100%;
+	float: left;
+	border: 1px solid #CCCCCC;
+	box-sizing: border-box;
+}
+.conten .content .hot p{
+	color: #3c3a3a;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 40px;
+}
+.conten .content .hot a{
+	display: block;
+	margin-top: 40px;
+	height:500px ;
+}
+.conten .content .hot a img{
+	margin-left: 3px;
+}
+.conten .content .hot a .cost{
+	width: 232px;
+	height:78px;
+	margin: auto;
+}
+.conten .content .hot a .cost p{
+	color: #3c3a3a;
+	font-size: 16px;
+	text-align: inherit;
+}
+.conten .content .hot a .cost p span{
+	color: #F7193E;
+	font-weight: 600;
+	margin-left:100px;
+}
+.conten .content .hot a .cost .line{
+	height: 1px;
+	width: 232px;
+	border-top: 1px dashed #999999;
+	box-sizing: border-box;
+	margin-top:10px;
+}
+.conten .content .hot a .cost .shop3{
+	margin-top: 20px;
+}
+.conten .content .hot a .cost .shop3 span{
+	margin-left:0px;
+	color: #3c3a3a;
+	font-weight: bold;
+	font-size:14px;
+	margin-left: 44px;
+}
+.conten .content .hot a .cost .shop3 .gou{
+	width: 84px;
+	height: 24px;
+	border: 1px solid #999999;
+	box-sizing: border-box;
+	border-radius: 4px;
+	padding: 3px 14px;
+	margin-left: 0px;
+}
+.conten .content .hot a .cost .shop3 .gou:hover{
+	background: #F7193E;
+	color: #fff;
+}
+.conten .content .hot a .fu{
+	position: relative;
+	overflow: hidden;
+}
+.conten .content .hot a .fu img{
+	-webkit-transition:  1s;
+	transition:  1s;
+	
+}
+.conten .content .hot a .fu:hover img{
+	transform: translate(10px ,0px)
+}
+.conten .content .hot a .hinde1{
+	width: 254PX;
+	height: 64PX;
+	background: #FA5A74;
+	margin: auto;
+	position: absolute;
+	right: 50PX;
+	bottom: -64px;
+	transition:transform .5s;
+	-webkit-transition:transform .5s;
+}
+.conten .content .hot a .fu:hover .hinde1{
+	transform:translate(0px,-64px);
+
+}
+.conten .content .hot a .hinde1 span{
+	color: #FFF;
+	line-height: 64px;
+	padding: 0px 20px;
+	box-sizing: border-box;
+}
+.conten .content .hot a .hinde1 .shou{
+	margin-left: 26px;
+}
+.conten .content .details{
+	width: 842px;
+	height: 1000px;
+	float: left;
+}
+.conten .content .details .shang{
+	height: 35px;
+	width: 100%;
+}
+.conten .content .details .shang ul li a{
+	height: 35px;
+	width: 150px;
+	float: left;
+	border: 1px solid #999999;
+	box-sizing: border-box;
+	margin-left: 10px;
+	text-align: center;
+	line-height: 35px;
+	font-size: 18px;
+}
+.conten .content .details .shang ul li a:hover{
+	background: #F7193E;
+	border: 0px;
+	color: #fff;
+}
+.conten .content .details h1{
+	font-size: 24px;
+	color: #000000;
+	text-align: center;
+	font-weight: 400;
+	margin-top: 24px;
+}
+
+.conten .content .details p{
+	margin-left: 10px;
+	font-size: 18px;
+	color: #404040;
+	line-height: 40px;
+}
+.conten .content .details .suo{
+	text-indent:5em;
+}
+.conten .content .details img{
+	margin-left: 2px;
+	
+}
+.conten .content .details .tu img {
+	display: block;
+	margin: auto;	
+}
+.conten .content .details .xiao{
+	font-size: 12px;
+	text-align: center;
+}
+.conten .content .details .footer{
+	margin-left: 10px;
+	overflow: hidden;
+}
+.conten .content .details .footer h1{
+	margin-bottom: 36px;
+}
+.conten .content .details .footer a{
+	display: block;
+	float: left;
+	margin-bottom:6px;
+}
+.conten .content .details .footer a:nth-child(1){
+	margin-right: 6px;
+}
+.conten .content .details .last .last1 a{
+	display: block;
+	float: left;
+	width: 33.333333%;
+	height: 446px;
+}
+.conten .content .details .last .last1 a .cost1{
+	width: 234px;
+	height:80px;
+	margin: auto;
+}
+.conten .content .details .last .last1  a .cost1 p{
+	color: #3c3a3a;
+	font-size: 16px;
+	margin-left: -1px;
+	margin-top: 10PX;
+}
+.conten .content .details .last .last1 a .cost1 p span{
+	color: #F7193E;
+	font-weight: 600;
+	margin-left:100px;
+}
+.conten .content .details .last .last1 a .cost1 .line{
+	height: 1px;
+	width: 232px;
+	border-top: 1px dashed #999999;
+	box-sizing: border-box;
+
+}
+.conten .content .details .last .last1 a .cost .shop3{
+	margin-top: 10px;
+}
+.conten .content .details .last .last1 a .cost .shop3 span{
+	margin-left:0px;
+	color: #3c3a3a;
+	font-weight: bold;
+	font-size:14px;
+	margin-left: 44px;
+}
+.conten .content .details .last .last1 a .cost .shop3 .gou{
+	width: 84px;
+	height: 24px;
+	border: 1px solid #999999;
+	box-sizing: border-box;
+	border-radius: 4px;
+	padding: 3px 14px;
+	margin-left: 0px;
+}
+
+.conten .content .details .last .last1 a .cost .shop3 .gou:hover{
+	background: #F7193E;
+	color: #fff;
+}
+.conten .content .details .last .last1 a img{
+	padding-top: 40PX;
+	box-sizing: border-box;
+}
+.conten .content .details .last P{
+	font-size: 16PX;
+	color: #999999;
+	margin-top: 10PX;
+}
+.conten .content .details .last .last1 a .fu{
+	position: relative;
+	overflow: hidden;
+}
+.conten .content .details .last .last1 a .hinde1{
+	width: 234PX;
+	height: 64PX;
+	background: #FA5A74;
+	margin: auto;
+	position: absolute;
+	right: 26PX;
+	bottom: -64px;
+	transition:transform .5s;
+	-webkit-transition:transform .5s;
+}
+.conten .content .details .last .last1 a .fu:hover .hinde1{
+	transform:translate(0px,-64px);
+
+}
+.conten .content .details .last .last1 a .hinde1 span{
+	color: #FFF;
+	line-height: 64px;
+	padding: 0px 15px;
+	box-sizing: border-box;
+}
+.conten .content .details .last .last1 a .hinde1 .shou{
+	margin-left: 26px;
+}
+.conten .content .details .last .last1 a .fu img{
+	-webkit-transition:  1s;
+	transition:  1s;
+	
+}
+.conten .content .details .last .last1 a .fu:hover img{
+	transform: translate(10px ,0px)
+}

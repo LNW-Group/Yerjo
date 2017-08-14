@@ -40,6 +40,7 @@ a:hover{
 }
 /*56px*/
 
+
 .wlc-conter1{    /*内宽1*/
 	width:1200px;
 	height:88px;
@@ -82,9 +83,12 @@ a:hover{
 /*190*38px*/
 .f-orm1 input{
 	width:190px;
-	height:36px;
+	height:40px;
 	float:right;
 	margin-top:16px;
+	border: 1px solid #999999;
+	box-sizing: border-box;
+	border-right: 0px;
 }
 /*124*50px*/
 .wlc-ico1{
@@ -133,6 +137,13 @@ a:hover{
     justify-content:space-between;
     align-items:center;
     color:white;
+}
+.wlc-conter2t .wlc-conter2 ul li a{
+	font-size: 18PX;
+	color: #F6F6F6;
+}
+.wlc-conter2t .wlc-conter2 ul li a:hover{
+	color: #FFF;
 }
 /*54*/
 .wlc-conter3t{
@@ -468,17 +479,32 @@ hr{
 	margin-top:8px;
 	font-size:14px;
 }
-.wlc-conter2t:last-child{
-	margin-top:50px;
-	background:#E9E5E6;
-    margin-bottom:50px;
-}
-.wlc-conter2t:last-child .wlc-conter2 ul{
-	color:black;
-}
-.wlc-shuiping{
+/*复制如下--尾部导航*/
+.wlc-contertt{
 	width:100%;
+	height:57px;
+	background:#E9E5E6;
+	margin:50px 0;
+}
+.wlc-contertt .wlc-contert{
+	width:1200px;
+	height:100%;
+	margin:auto;
+	display:flex;
+}
+.wlc-contertt .wlc-contert ul{
+	width:100%;
+	height:100%;
+	list-style:none;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    color:black;
+}
+.wang{
+	width:1200px;
 	height:;
-	outline:1px solid gray;
-	margin-bottom:50px;
+	text-align: center;
+	margin:auto;
+	font-size:12px;
 }

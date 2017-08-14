@@ -74,7 +74,7 @@
 }
 .product .pro-contain .cate .list ul .l2 .none{
 	display: none;
-	transition-duration: .3s;
+	transition-duration: .5s;
 }
 .product .pro-contain .cate .list ul .l2 .none a{
 	display: block;
@@ -209,7 +209,7 @@
 	margin: 0 21px;
 	background: #fff;
 	border-radius: 50%;
-	transition: .3s;
+	transition: .5s;
 }
 .product .pro-contain .right .banner ul li:hover{
 	transform: scale(1.2);
@@ -286,9 +286,9 @@
 	line-height: 62px;
 	position: absolute;
 	left: 11px;
-	bottom: 0px;
+	bottom: 0;
 	display: none;
-	transition-duration: .5s;
+	transition-duration:bottom .5s;
 }
 .product .pro-contain .right .all .item .image .rnone p{
 	display: inline-block;
@@ -312,7 +312,7 @@
 	position: relative;
 }
 .product .pro-contain .right .all .item .image:hover .rnone{
-	display: block;
+	display:block;
 }
 .product .pro-contain .right .all .item .price{
 	width: 224px;height: 26px;

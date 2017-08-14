@@ -7,8 +7,11 @@ a{
 	text-decoration:none;
 	color:black;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 78538478f8b972fc065e99b8204818cc89e033fc
 .wlc-tong{
 	width:100%;
 	height:40px;
@@ -65,6 +68,10 @@ a{
 	color:white;
 	margin-top:16px;
 	cursor:pointer;
+<<<<<<< HEAD
+=======
+	font-size: 16px;
+>>>>>>> 78538478f8b972fc065e99b8204818cc89e033fc
 }
 /*54*40* 搜索*/
 .wlc-sou{
@@ -91,6 +98,10 @@ a{
 	box-sizing: border-box;
 	border-right: 0px;
 	padding-left: 10px;
+<<<<<<< HEAD
+=======
+	outline:none;
+>>>>>>> 78538478f8b972fc065e99b8204818cc89e033fc
 }
 /*124*50px*/
 .wlc-ico1{
@@ -184,6 +195,12 @@ a{
 	text-align:center; 
 	margin-left:30px;
 }
+<<<<<<< HEAD
+=======
+.wlc-box3 .erwei span{
+	font-size: 16px;
+}
+>>>>>>> 78538478f8b972fc065e99b8204818cc89e033fc
 .wlc-box3 .erwei:last-child{
 	margin-left:50px;
 }

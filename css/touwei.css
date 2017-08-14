@@ -63,12 +63,13 @@ a{
 	color:white;
 	margin-top:16px;
 	cursor:pointer;
+	font-size: 16px;
 }
 /*54*40* 搜索*/
 .wlc-sou{
 	width:54px;
 	height:40px;
-	background:red;
+	background:#F7193E;
 	text-align:center;
 	line-height:40px;
 	float:right;
@@ -182,6 +183,9 @@ a{
 	flex-direction:column;
 	text-align:center; 
 	margin-left:30px;
+}
+.wlc-box3 .erwei span{
+	font-size: 16px;
 }
 .wlc-box3 .erwei:last-child{
 	margin-left:50px;
